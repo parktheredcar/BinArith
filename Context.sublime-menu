@@ -1,0 +1,14 @@
+[
+	{
+		"id" : "BinArith",
+		"caption": "Binary Arithmetic",
+		"children":
+		[
+			{
+				"id" : "XorStrings",
+				"caption" : "Xor Selection",
+				"command": "xor_strings"
+			}	
+		]
+	}
+]

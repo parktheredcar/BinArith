@@ -1,0 +1,7 @@
+[
+{
+	"id" : "xorstrings",
+	"caption" : "Xor Selection",
+	"command" : "xor_strings"
+}
+]
